@@ -15,5 +15,6 @@
 ![Screenshot (1509)](https://github.com/sumedhaimp/20BD1A056N/assets/113005165/08d2d063-8757-48ad-ade5-755dbf0fbf8a)
 #request and response for multiple
 ![Screenshot (1502)](https://github.com/sumedhaimp/20BD1A056N/assets/113005165/6904c627-7ca4-4a20-b3c6-67214d68d7fe)
-#from postman with time indicated
-![Screenshot (1503)](https://github.com/sumedhaimp/20BD1A056N/assets/113005165/2998d9fb-0e0d-4b5d-893f-96ec9ddc0060)
+#from the postman with time indicated
+![Screenshot (1512)](https://github.com/sumedhaimp/20BD1A056N/assets/113005165/61d42065-561d-436e-85e6-7144207d7dd5)
+
